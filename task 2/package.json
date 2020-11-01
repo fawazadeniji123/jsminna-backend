@@ -1,0 +1,15 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task 8.js",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon 'task 8.js'"
+  },
+  "author": "",
+  "license": "ISC"
+}
